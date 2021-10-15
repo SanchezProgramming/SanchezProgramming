@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **SanchezProgramming/SanchezProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am majoring in Computer Science, working on completing my Associate's Degree.
+My name is Raul Sanchez 😀
 
-If you want to know more about me, check out my YouTube channel and website.
+A quick intro about myself, I am majoring in Computer Science, working on completing my Associate's Degree.
 
-YouTube - Sanchez Programming
+I use GitHub to post my programming projects, but if you want to know more 
+about me feel free to check out my YouTube channel and my website.
+
+💻 YouTube - Sanchez Programming
 https://www.youtube.com/channel/UCFQiIJXffK5JT2U3379YVYQ
 
-Website
+💻 Website
 https://rauls8951.wixsite.com/portfolio
